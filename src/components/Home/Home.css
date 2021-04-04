@@ -1,0 +1,13 @@
+.HomeContainerText {
+    height: 80vh;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+}
+
+.HomeText {
+    margin-bottom: 2.5em;
+    margin-right: 1em;
+    font-size: 4em;
+    font-weight: 800;
+}
